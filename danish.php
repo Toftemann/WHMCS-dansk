@@ -1299,74 +1299,74 @@ $_LANG['affiliatesignupinfo3'] = "Hvis du vil vide mere er du velkommen til at k
 
 $_LANG['copyright'] = "Copyright";
 $_LANG['allrightsreserved'] = "Alle Rettigheder Forbeholdes";
-$_LANG['supportticketsclose'] = "Close Ticket";
-$_LANG['affiliatesinitialthen'] = "Initially then";
-$_LANG['invoicesoutstandingbalance'] = "Outstanding Balance";
+$_LANG['supportticketsclose'] = "Luk besked";
+$_LANG['affiliatesinitialthen'] = "Opringet derefter";
+$_LANG['invoicesoutstandingbalance'] = "Udestående saldo";
 
-$_LANG['cpanellogin'] = "Login to cPanel";
-$_LANG['cpanelwhmlogin'] = "Login to WHM";
-$_LANG['cpanelwebmaillogin'] = "Login to Webmail";
-$_LANG['enkompasslogin'] = "Login to Enkompass";
-$_LANG['plesklogin'] = "Login to Plesk Control Panel";
-$_LANG['helmlogin'] = "Login to Helm Control Panel";
-$_LANG['hypervmrestart'] = "Restart VPS Server";
-$_LANG['siteworxlogin'] = "Login to SiteWorx Control Panel";
-$_LANG['nodeworxlogin'] = "Login to NodeWorx Control Panel";
-$_LANG['veportallogin'] = "Login to vePortal";
-$_LANG['virtualminlogin'] = "Login to Control Panel";
-$_LANG['websitepanellogin'] = "Login to Control Panel";
-$_LANG['whmsoniclogin'] = "Login to Control Panel";
-$_LANG['xpanelmaillogin'] = "Login to Webmail";
-$_LANG['xpanellogin'] = "Login to XPanel";
-$_LANG['heartinternetlogin'] = "Login to Control Panel";
-$_LANG['gamecplogin'] = "Login to GameCP";
-$_LANG['fluidvmrestart'] = "Restart VPS Server";
-$_LANG['enomtrustedesc'] = "The TRUSTe Control Panel contains the set up wizard to get your Privacy Policy up and running.";
-$_LANG['enomtrustelogin'] = "Login to TrustE Control Panel";
-$_LANG['directadminlogin'] = "Login to DirectAdmin";
-$_LANG['centovacastlogin'] = "Login to Centova Cast";
-$_LANG['castcontrollogin'] = "Login to Control Panel";
+$_LANG['cpanellogin'] = "Log ind til cPanel";
+$_LANG['cpanelwhmlogin'] = "Log ind til WHM";
+$_LANG['cpanelwebmaillogin'] = "Log ind på webmail";
+$_LANG['enkompasslogin'] = "Log ind på Enkompass";
+$_LANG['plesklogin'] = "Log ind på Plesk kontrol panel";
+$_LANG['helmlogin'] = "Log ind på Helm kontrol panel";
+$_LANG['hypervmrestart'] = "Genstart VPS server";
+$_LANG['siteworxlogin'] = "Log ind på SiteWorx kontrol panel";
+$_LANG['nodeworxlogin'] = "Log ind på NodeWorx kontrol panel";
+$_LANG['veportallogin'] = "Log ind på vePortal";
+$_LANG['virtualminlogin'] = "Log ind på kontrol panel";
+$_LANG['websitepanellogin'] = "Log ind på kontrol panel";
+$_LANG['whmsoniclogin'] = "Log ind på kontrol panel";
+$_LANG['xpanelmaillogin'] = "Log ind på webmail";
+$_LANG['xpanellogin'] = "Log ind på XPanel";
+$_LANG['heartinternetlogin'] = "Log ind på kontrol panel";
+$_LANG['gamecplogin'] = "Log ind på GameCP";
+$_LANG['fluidvmrestart'] = "Genstart VPS server";
+$_LANG['enomtrustedesc'] = "TRUSTe kontrol panel indeholder en opsætnings troldmand til at få din privatpolitik op og kører.";
+$_LANG['enomtrustelogin'] = "Log ind på TrustE kontrol panel";
+$_LANG['directadminlogin'] = "Log ind på DirectAdmin";
+$_LANG['centovacastlogin'] = "Log ind på Centova Cast";
+$_LANG['castcontrollogin'] = "Log in på kontrol panel";
 
-$_LANG['sslconfigurenow'] = "Configure Now";
-$_LANG['sslprovisioningdate'] = "SSL Provisioning Date";
-$_LANG['globalsignvoucherscode'] = "Your OneClickSSL Voucher Code";
-$_LANG['globalsignvouchersnotissued'] = "Not Yet Issued";
+$_LANG['sslconfigurenow'] = "Konfigurer nu";
+$_LANG['sslprovisioningdate'] = "SSL provisioning dato";
+$_LANG['globalsignvoucherscode'] = "Din OneClickSSL rabatkode";
+$_LANG['globalsignvouchersnotissued'] = "Endnu ikke udsendt";
 
-$_LANG['domaintrffailreasonunavailable'] = "Failure Reason Unavailable";
+$_LANG['domaintrffailreasonunavailable'] = "Fejl årsag mangler";
 
-$_LANG['clientareaprojects'] = "My Projects";
+$_LANG['clientareaprojects'] = "Mit projekt";
 
-$_LANG['clientgroupdiscount'] = "Client Discount";
-$_LANG['billableitemshours'] = "Hours";
-$_LANG['billableitemshour'] = "Hour";
+$_LANG['clientgroupdiscount'] = "Klient rabat";
+$_LANG['billableitemshours'] = "Timer";
+$_LANG['billableitemshour'] = "Time";
 
-$_LANG['invoicefilename'] = "Invoice-";
-$_LANG['quotefilename'] = "Quote-";
+$_LANG['invoicefilename'] = "Faktura-";
+$_LANG['quotefilename'] = "Citat-";
 
 # Licensing Addon
 
-$_LANG['licensingkey'] = "License Key";
-$_LANG['licensingvaliddomains'] = "Valid Domains";
-$_LANG['licensingvalidips'] = "Valid IPs";
-$_LANG['licensingvaliddirectory'] = "Valid Directory";
-$_LANG['licensingstatus'] = "License Status";
-$_LANG['licensingreissue'] = "Reissue License";
-$_LANG['licensingreissued'] = "The Valid Domain, IP and Directory will be detected & saved the next time the license is used.";
+$_LANG['licensingkey'] = "Licens nøgle";
+$_LANG['licensingvaliddomains'] = "Gyldige domæner";
+$_LANG['licensingvalidips'] = "Gyldige IP'er";
+$_LANG['licensingvaliddirectory'] = "Gyldigt register";
+$_LANG['licensingstatus'] = "Licens status";
+$_LANG['licensingreissue'] = "Reissue licens";
+$_LANG['licensingreissued'] = "Det gyldige domæne, IP og register vil blive opdaget & gemt  næste gang  licensen er brugt.";
 
 # Domain Addons
 
 $_LANG['domainaddons'] = "Addons";
-$_LANG['domainaddonsinfo'] = "The following addons are available for your domain(s)...";
-$_LANG['domainaddonsdnsmanagement'] = "DNS Host Record Management";
-$_LANG['domainaddonsidprotectioninfo'] = "Protect your personal information and reduce the amount of spam to your inbox by enabling ID Protection.";
-$_LANG['domainaddonsdnsmanagementinfo'] = "External DNS Hosting can help speed up your website and improve availability with reduced redundancy.";
-$_LANG['domainaddonsemailforwardinginfo'] = "Get emails forwarded to alternate email addresses of your choice so that you can monitor all from a single account.";
-$_LANG['domainaddonsbuynow'] = "Buy Now for";
-$_LANG['domainaddonsperyear'] = "/Year";
-$_LANG['domainaddonscancelareyousure'] = "Are you sure you want to disable & cancel this domain addon?";
-$_LANG['domainaddonsconfirm'] = "Confirm Cancellation";
-$_LANG['domainaddonscancelsuccess'] = "Addon Deactivated Successfully!";
-$_LANG['domainaddonscancelfailed'] = "Failed to deactivate addon. Please contact support.";
+$_LANG['domainaddonsinfo'] = "De følgene addons er tilgængelige for dit/dine domæne®…";
+$_LANG['domainaddonsdnsmanagement'] = "DNS Host Record ledelse";
+$_LANG['domainaddonsidprotectioninfo'] = "Beskyt dine personlige informationer og reducer antallet af spam til din inbox ved at aktivere ID beskyttelse.";
+$_LANG['domainaddonsdnsmanagementinfo'] = "Ekstern DNS hosting kan hjælpe hastihed op på din hjemmeside og forbedre tilgængelighed ved at reducere redundans.";
+$_LANG['domainaddonsemailforwardinginfo'] = "Modtag emails fremsendt til den alternative email addressese af dit valg så du kan monitere alt fra en enkelt bruger.";
+$_LANG['domainaddonsbuynow'] = "Køb for nu";
+$_LANG['domainaddonsperyear'] = "/År";
+$_LANG['domainaddonscancelareyousure'] = "Er du sikker på at du vil deaktivere & annulere dette domæne addon?";
+$_LANG['domainaddonsconfirm'] = "Bekræftet annulering";
+$_LANG['domainaddonscancelsuccess'] = "Addon deaktivering succesfuld!";
+$_LANG['domainaddonscancelfailed'] = "Fejlede i at deaktivere addon. Venligt kontakt support.";
 
 # Version 5.2
 
